@@ -1,4 +1,4 @@
-# Agentic GTM Protocols: Enterprise AI Edition
+# Agentic GTM Protocols for Enterprises
 
 Traditional Go-To-Market (GTM) playbooks are broken in the AI era. Static PDF playbooks and generic marketing frameworks fail to account for the unique security, pricing, and operational challenges of selling enterprise AI.
 
